@@ -1,2 +1,2 @@
 # Shortcuts
-Shortcut Keys Different IDEs
+Shortcut Keys for Different IDEs
